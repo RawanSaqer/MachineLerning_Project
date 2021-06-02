@@ -15,9 +15,6 @@ The 10 algorithms must be not included in papers \
 \
 \
 \
-\
-
-
 __________________________________________________________________________________________
 
 
@@ -29,5 +26,4 @@ Link: https://www.kaggle.com/mlg-ulb/creditcardfraud \
 2-Credit Card Fraud Detection using Machine Learning and Data Science \
 The 2 Papers must be have one dataset -> Apply 10 algorithms 6 from lecture and 4 not included lecture \
 The 10 algorithms must be not included in papers 
-\
 \
