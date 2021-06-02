@@ -8,9 +8,7 @@ Link: hhttps://www.kaggle.com/c/titanic/overview\
 1- Prediction of Survivors in Titanic Dataset: A Comparative Study using Machine Learning Algorithms \
 2- Analyzing Titanic Disaster using Machine Learning Algorithms \
 The 2 Papers must be have one dataset -> Apply 10 algorithms 6 from lecture and 4 not included lecture \
-The 10 algorithms must be not included in papers \
-\
-\
+The 10 algorithms must be not included in papers 
 <br/>
 __________________________________________________________________________________________
 
