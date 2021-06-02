@@ -1,9 +1,9 @@
 # MachineLerning_Project
 
 4 Papers :
-
-
-
+.
+.
+.
 Dataset 1 : Titanic
 Link: hhttps://www.kaggle.com/c/titanic/overview
 2 Papers :
