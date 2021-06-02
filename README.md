@@ -11,9 +11,6 @@ The 2 Papers must be have one dataset -> Apply 10 algorithms 6 from lecture and 
 The 10 algorithms must be not included in papers \
 \
 \
-\
-\
-\
 <br/>
 __________________________________________________________________________________________
 
