@@ -1,11 +1,9 @@
 # MachineLerning_Project
 
-4 Papers :
-.
-.
-.
-Dataset 1 : Titanic
-Link: hhttps://www.kaggle.com/c/titanic/overview
+4 Papers :\
+
+Dataset 1 : Titanic\
+Link: hhttps://www.kaggle.com/c/titanic/overview\
 2 Papers :
 1- Prediction of Survivors in Titanic Dataset: A Comparative Study using Machine Learning Algorithms
 2- Analyzing Titanic Disaster using Machine Learning Algorithms
